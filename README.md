@@ -1,4 +1,4 @@
-<img src="assets/banner.png" width="100%" alt="SYSTEM AWAKENED" />
+<img src="assets/banner_pic.png" width="100%" alt="SYSTEM AWAKENED" />
 
 <h1 align="center">Dingaan Manjate</h1>
 
