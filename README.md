@@ -1,4 +1,4 @@
-<img src="assets/20251209_090929.jpg" width="100%" alt="SYSTEM AWAKENED" />
+<img src="assets/sudo.png" width="100%" alt="Sudo Master" />
 
 <h1 align="center">Dingaan Manjate</h1>
 
